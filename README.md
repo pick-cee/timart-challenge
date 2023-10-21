@@ -19,7 +19,7 @@ Author - Akinloluwa Olumuyide
 1. Clone the repo: <br><code>git clone.</code><br></br>
 2. Install the dependencies: <br><code>npm install or yarn add.</code><br></br>
 3. Configure your environment variables by using the sample `.env.sample` provided.<br></br>
-4. RUn the application: <br><code>npm run dev</code><br></br>
+4. Run the application: <br><code>npm run dev</code><br></br>
 
 #### Postman Documentation
 
